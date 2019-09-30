@@ -1,0 +1,13 @@
+{
+  "name": "tmobile-workshop",
+  "version": "1.0.0",
+  "description": "A workshop at T-Mobile Slack Summit",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Ankur Oberoi <aoberoi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/bolt": "^1.3.0"
+  }
+}
